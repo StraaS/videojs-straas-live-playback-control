@@ -1,0 +1,9 @@
+// Sass for videojs-straas-live-playback-control
+
+.video-js {
+
+  // This class is added to the video.js element by the plugin by default.
+  &.vjs-straas-live-playback-control {
+    display: block;
+  }
+}

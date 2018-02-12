@@ -1,0 +1,14 @@
+{
+  "generator-videojs-plugin": {
+    "scope": "",
+    "name": "straas-live-playback-control",
+    "description": "",
+    "author": "Kiwi Liu <kiwi71728@icloud.com>",
+    "license": "mit",
+    "sass": true,
+    "ie8": false,
+    "docs": true,
+    "lang": true,
+    "husky": "none"
+  }
+}
